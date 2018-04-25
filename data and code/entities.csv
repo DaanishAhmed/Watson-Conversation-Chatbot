@@ -1,0 +1,41 @@
+flavors,vanilla,plain,white,vanila
+flavors,banana
+flavors,coffee,coffee bean
+flavors,strawberry,straw berry
+flavors,raspberry,rasp berry
+flavors,rocky road,rocky,road,rockyroad,rock road,rockroad
+flavors,cookies n' cream,cookies and cream,cookie n' cream,cookie and cream,cookies n' creme,cookies and creme,cookies n creme,cookies n cream,cookie n cream,cookie n creme,oreo,cookiesncream,cookiesandcream,cookiesncreme,cookiesandcreme
+flavors,cookie dough,chocolate chip cookie dough,chocolate chip,cookiedough,dough
+flavors,mint,mint chocolate,mint chocolate chip,mintchocolate,mintchocolatechip
+flavors,caramel,carmel
+flavors,neapolitan
+flavors,butter pecan,pecan,pecan butter,butterpecan,pecanbutter
+flavors,peanut butter,peanut,PB,peanutbutter
+flavors,cherry
+flavors,pistachio,pistachio nut
+flavors,cotton candy,cotton,candy,cottoncandy
+flavors,tutti frutti,tutti,frutti,tutty,tooty,fruitty,fruitti,fruity,fruiti,tuttifruitti,tuttyfruitty
+flavors,chocolate,choc,milk chocolate
+flavors,moose tracks,moose,track,tracks,moosetracks,moosetrack
+food_type,ice cream,icecream,ice-cream,cream,ice creme,icecreme,ice-creme,creme,ice
+food_type,frozen yogurt,yogurt,fro-yo,fro yo,fro,yo,frozenyogurt,froyo,frozen
+locations,"Washington, DC",D.C.,Washington DC,Washington D.C.,dc,District of Columbia,District,capital,capitol
+locations,Florida,FL,sunshine state
+locations,New Jersey,NJ,Jersey,garden state,newjersey
+locations,Texas,TX,lone star state,lone star
+locations,Washington,Washington State,WA,evergreen state
+locations,Massachusetts,MA,bay state,masachusetts,massachusets,masachusets,massachussets,masachussetts,masachussets
+locations,Connecticut,CT,constitution state,constitution,conneticut,conecticut,coneticut
+locations,Ohio,OH,buckeye state
+locations,North Carolina,NC,tar heel state,n carolina,northcarolina,ncarolina
+locations,Arizona,AZ,grand canyon state,grand canyon,canyon state
+locations,Georgia,GA,peach state
+locations,Maryland,MD,old line state,old line,mary land
+locations,California,CA,Cali,Cal,golden state
+locations,New York,NY,empire state,newyork,york
+locations,Pennsylvania,PA,Penn,keystone state,pensylvania
+locations,Virginia,VA,old dominion state,old dominion
+sizes,extra large,xl,extra,larger,bigger,biggest,largest,most expensive,giant,huge,extralarge,xlarge,x-large,x-l
+sizes,medium,med,middle,middle-sized,mid,m
+sizes,small,s,sm,little,tiny,smallest,tiniest,smaller,smal
+sizes,large,big,l,bigg

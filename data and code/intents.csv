@@ -1,0 +1,193 @@
+yeah,confirm_order
+right,confirm_order
+true,confirm_order
+confirm,confirm_order
+correct,confirm_order
+affirmative,confirm_order
+indeed,confirm_order
+yessir,confirm_order
+Y,confirm_order
+positive,confirm_order
+that's right,confirm_order
+that's correct,confirm_order
+yes,confirm_order
+that is right,confirm_order
+that is correct,confirm_order
+confirmed,confirm_order
+the order is correct,confirm_order
+the order is right,confirm_order
+yep,confirm_order
+change order,decline_order
+incorrect,decline_order
+bad order,decline_order
+denied,decline_order
+never,decline_order
+nada,decline_order
+N,decline_order
+I need to change my order,decline_order
+change,decline_order
+I messed up,decline_order
+not a chance,decline_order
+not,decline_order
+nooo,decline_order
+noo,decline_order
+changed my mind,decline_order
+mistake,decline_order
+I made a mistake,decline_order
+wrong,decline_order
+false,decline_order
+deny,decline_order
+deny order,decline_order
+reject,decline_order
+reject order,decline_order
+decline order,decline_order
+decline,decline_order
+drop,decline_order
+drop order,decline_order
+drop the order,decline_order
+cancel my order,decline_order
+change my order,decline_order
+cancel order,decline_order
+cancel,decline_order
+nope,decline_order
+change the order,decline_order
+no,decline_order
+not correct,decline_order
+I want to change the order,decline_order
+list of sizes,food_size
+size,food_size
+sizes,food_size
+choice of sizes,food_size
+portions,food_size
+proportion,food_size
+proportions,food_size
+portion,food_size
+food size,food_size
+what are the sizes,food_size
+what are the food sizes,food_size
+possible sizes,food_size
+I am done,goodbye
+I'll be back,goodbye
+I'll be leaving,goodbye
+I'm done,goodbye
+I'm finished,goodbye
+I will be leaving,goodbye
+I will be back,goodbye
+see you soon,goodbye
+see you,goodbye
+have a great day,goodbye
+have a nice day,goodbye
+see you later,goodbye
+bye,goodbye
+goodbye,goodbye
+end conversation,goodbye
+end dialog,goodbye
+I'm leaving,goodbye
+quit,goodbye
+stop talking,goodbye
+end the conversation,goodbye
+I want to leave,goodbye
+have a good day,goodbye
+bye-bye,goodbye
+hasta la vista,goodbye
+adios,goodbye
+farewell,goodbye
+I am finished,goodbye
+what are your hours,hours
+when are you open,hours
+hours,hours
+opening hours,hours
+working hours,hours
+schedule,hours
+weekly hours,hours
+what time are you open,hours
+how long are you open,hours
+when open,hours
+working hour,hours
+weekly hour,hours
+what time are working hours,hours
+what time,hours
+when is the store open,hours
+when is the shop open,hours
+when do you close,hours
+closing hours,hours
+operating hours,hours
+open,hours
+closing,hours
+when are you closed,hours
+when can I visit,hours
+pay,prices
+what do I pay,prices
+value,prices
+costs,prices
+expense,prices
+how much money,prices
+how much,prices
+cost,prices
+how expensive,prices
+what is the cost,prices
+pricing,prices
+payment,prices
+what is the price,prices
+prices,prices
+price,prices
+real store,shop_in_store
+in-store,shop_in_store
+in store,shop_in_store
+in person,shop_in_store
+on-site,shop_in_store
+on site,shop_in_store
+not online,shop_in_store
+offline,shop_in_store
+physical,shop_in_store
+real location,shop_in_store
+actual location,shop_in_store
+what is the closest location,shop_in_store
+what is the nearest location,shop_in_store
+closest shop,shop_in_store
+closest store,shop_in_store
+closest location,shop_in_store
+nearby,shop_in_store
+nearby store,shop_in_store
+visit a nearby store,shop_in_store
+visiting a nearby store,shop_in_store
+visit a local store,shop_in_store
+local store,shop_in_store
+local,shop_in_store
+near store,shop_in_store
+real,shop_in_store
+closest,shop_in_store
+nearest,shop_in_store
+nearest store,shop_in_store
+directions,shop_in_store
+direction,shop_in_store
+visit,shop_in_store
+visiting,shop_in_store
+instore,shop_in_store
+on line,shop_online
+on-line,shop_online
+digital,shop_online
+digitally,shop_online
+virtual,shop_online
+e-store,shop_online
+web store,shop_online
+on the web,shop_online
+web,shop_online
+on the net,shop_online
+net,shop_online
+internet,shop_online
+shop online,shop_online
+online,shop_online
+i will shop online,shop_online
+online store,shop_online
+want to shop online,shop_online
+virtual store,shop_online
+flavor,what_flavors
+choice of flavors,what_flavors
+what flavors,what_flavors
+flavors,what_flavors
+what are the flavors,what_flavors
+list of flavors,what_flavors
+possible flavors,what_flavors
+all flavors,what_flavors
+which flavors,what_flavors
